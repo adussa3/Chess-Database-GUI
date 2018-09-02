@@ -1,0 +1,19 @@
+.button {
+    -fx-background-color: #eeb211;
+    -fx-font: 16px;
+    -fx-text-fill: #262626;
+    -fx-duration: 0.5;
+
+    -fx-padding: 17.5px;
+    -fx-border-insets: 10px;
+    -fx-background-insets: 10px;
+}
+
+.button:hover {
+    -fx-background-color: #262626;
+    -fx-text-fill: white;
+}
+
+.table {
+    -fx-color: #eeb211;
+}
